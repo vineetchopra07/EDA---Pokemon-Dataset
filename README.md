@@ -7,7 +7,6 @@ The goal of this project was to analyze the characteristics of 800+ Pokemon to i
 
 ## 📊 Key Insights
 * **Type Dominance:** Water and Normal types are the most common, while Ice and Ghost types remain the rarest.
-*
 * **Average Total Power by Type: Dragon with high average strength but with high Standard Deviation**
 * <img width="598" height="379" alt="Screenshot 2026-01-12 at 16 35 06" src="https://github.com/user-attachments/assets/34d8292c-acb1-4dbe-af2b-32678ac63a11" />
 
@@ -17,7 +16,8 @@ The goal of this project was to analyze the characteristics of 800+ Pokemon to i
 
 
 * **Stat Correlations:** There is a strong positive correlation between Defense and Special Defense, but a surprising lack of correlation between Speed and Weight.
-* **Attack Distribution Water Vs fire :**<img width="622" height="401" alt="Screenshot 2026-01-12 at 16 38 22" src="https://github.com/user-attachments/assets/64aecc07-8c0e-45f7-bd5b-70e6538570be" />
+* **Attack Distribution Water Vs fire :**
+* <img width="622" height="401" alt="Screenshot 2026-01-12 at 16 38 22" src="https://github.com/user-attachments/assets/64aecc07-8c0e-45f7-bd5b-70e6538570be" />
 
 * **Generational Shift:** Generation 1 has the highest variance in stats, while later generations show more balanced distributions.
 
