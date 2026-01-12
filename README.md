@@ -2,13 +2,14 @@
 
 An in-depth exploration of Pokemon stats, types, and legendary status using Python & Statistical Analysis.
 
-### DataFrame.head(5) -
-	#	Name	Type 1	Type 2	Total	HP	Attack	Defense	Sp. Atk	Sp. Def	Speed	Generation	Legendary
-0	1	Bulbasaur	Grass	Poison	318	45	49	49	65	65	45	1	False
-1	2	Ivysaur	Grass	Poison	405	60	62	63	80	80	60	1	False
-2	3	Venusaur	Grass	Poison	525	80	82	83	100	100	80	1	False
-3	3	VenusaurMega Venusaur	Grass	Poison	625	80	100	123	122	120	80	1	False
-4	4	Charmander	Fire	NaN	309	39	52	43	60	50	65	1	False
+### 📋 Data Preview
+| # | Name | Type 1 | Type 2 | HP | Attack | Defense | Sp. Atk | Sp. Def | Speed |
+|---|------|--------|--------|----|--------|---------|---------|---------|-------|
+| 1 | Bulbasaur | Grass | Poison | 45 | 49 | 49 | 65 | 65 | 45 |
+| 2 | Ivysaur | Grass | Poison | 60 | 62 | 63 | 80 | 80 | 60 |
+| 3 | Venusaur | Grass | Poison | 80 | 82 | 83 | 100 | 100 | 80 |
+| 4 | Charmander | Fire | NaN | 39 | 52 | 43 | 60 | 50 | 65 |
+| 5 | Charmeleon | Fire | NaN | 58 | 64 | 58 | 80 | 65 | 80 |
 
 ## 📌 Project Overview
 The goal of this project was to analyze the characteristics of 800+ Pokemon to identify patterns in combat stats and type distributions. This analysis helps understand the "meta-game" balance and identifies which features contribute most to a Pokemon's "Legendary" status.
